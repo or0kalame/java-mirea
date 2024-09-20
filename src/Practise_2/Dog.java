@@ -1,4 +1,4 @@
-package Second;
+package Practise_2;
 
 public class Dog {
     private String name;

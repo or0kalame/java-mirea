@@ -1,4 +1,4 @@
-package Second;
+package Practise_2;
 import java.lang.*;
 
 public class TestBall {
